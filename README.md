@@ -1,5 +1,8 @@
 # Zomato-Restaurant-Clustering-And-Sentiment-Analysis
 
+# **Problem Statement**
+The aim of this machine learning project is to analyze customer sentiments expressed in reviews and provide valuable conclusions through visualizations. Additionally, the project involves clustering Zomato restaurants into different segments. By leveraging this analysis, the project aims to address several business cases, including assisting customers in finding the best restaurants in their locality and identifying areas where the company can improve and grow. The project utilizes valuable data on cuisine and costing for cost vs. benefit analysis and employs sentiment analysis to assess customer feedback. Furthermore, the metadata of reviewers will be used to identify influential critics in the industry.
+
 # **Project Summary -**
 
 ### Company's Introduction
@@ -19,11 +22,6 @@ India to gain insights and provide useful conclusions for both customers and the
 * Sentiment analysis is then conducted on user reviews with the help of VADER using Sentiment Intensity Analyzer to understand the overall sentiment towards the restaurants. The reviews are classified as positive, negative, or neutral using appropriate libraries. Additionally, the most impactful words in the reviews are extracted through the application of Latent Dirichlet Allocation and visualized through word clouds.
 
 * The analysis reveals that the restaurants in the city are grouped into two clusters based on their Cuisines, Number of cuisines, and Average cost for two. The sentiment analysis indicates that customers generally hold a positive sentiment towards the restaurants.
-
-In conclusion, this project demonstrates the effectiveness of clustering and sentiment analysis in gaining a deeper understanding of Zomato restaurant data. The insights derived from the analysis can greatly benefit both restaurants and customers in making informed decisions. The project can be extended to other cities or countries to gain insights into eating habits and preferences in different regions.
-
-# **Problem Statement**
-The aim of this machine learning project is to analyze customer sentiments expressed in reviews and provide valuable conclusions through visualizations. Additionally, the project involves clustering Zomato restaurants into different segments. By leveraging this analysis, the project aims to address several business cases, including assisting customers in finding the best restaurants in their locality and identifying areas where the company can improve and grow. The project utilizes valuable data on cuisine and costing for cost vs. benefit analysis and employs sentiment analysis to assess customer feedback. Furthermore, the metadata of reviewers will be used to identify influential critics in the industry.
 
 **Libraries used in EDA & Machine Learning:**
 1. Pandas
@@ -55,3 +53,5 @@ The aim of this machine learning project is to analyze customer sentiments expre
 2. AGGLOMERATIVE CLUSTERING
 3. LATENT DRICLET ALLOCATION
 4. VADER
+
+In conclusion, this project demonstrates the effectiveness of clustering and sentiment analysis in gaining a deeper understanding of Zomato restaurant data. The insights derived from the analysis can greatly benefit both restaurants and customers in making informed decisions. The project can be extended to other cities or countries to gain insights into eating habits and preferences in different regions.
