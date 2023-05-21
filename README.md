@@ -25,4 +25,33 @@ In conclusion, this project demonstrates the effectiveness of clustering and sen
 # **Problem Statement**
 The aim of this machine learning project is to analyze customer sentiments expressed in reviews and provide valuable conclusions through visualizations. Additionally, the project involves clustering Zomato restaurants into different segments. By leveraging this analysis, the project aims to address several business cases, including assisting customers in finding the best restaurants in their locality and identifying areas where the company can improve and grow. The project utilizes valuable data on cuisine and costing for cost vs. benefit analysis and employs sentiment analysis to assess customer feedback. Furthermore, the metadata of reviewers will be used to identify influential critics in the industry.
 
+**Libraries used in EDA & Machine Learning:**
+1. Pandas
+2. Numpy
+3. Matplotib
+4. Seaborn
+5. Plotly
+6. Sklearn
+7. Scipy
+8. NLTK
+9. Regex 
+10. Gensim
+11. PyLDAvis
 
+**Graphs used for representation:**
+1. Bar plot
+2. Pie plot
+3. Box Plot
+4. Point plot
+5. Tree Map
+6. Heatmap
+7. Pair plot
+8. Word Cloud
+9. Violin plot
+10. Scatter plot
+
+**ML Models used for training & testing:**
+1. KMEANS CLUSTERING
+2. AGGLOMERATIVE CLUSTERING
+3. LATENT DRICLET ALLOCATION
+4. VADER
